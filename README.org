@@ -1,4 +1,4 @@
-#+Title:Install Ipython emacs
+#+Title:Getting started with Ipython on emacs
 #+Options:num:nil toc:nil
 
 * IPython-notebook
