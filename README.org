@@ -24,7 +24,7 @@ IPython Notebooks,and it commonly used for improving the reproducibility and acc
 - [[http://bokeh.pydata.org/en/latest/][Bokeh]] - Interactive web visualisations
 - [[http://www.sympy.org/en/index.html][Sympy]] - symbolic algebra (also see [[http://www.sagemath.org][Sage]])
 - [[http://yt-project.org][YT]] - for analysing and visualising volumetric data
-- [[http://numba.pydata.org][Numba]] - a very easy to use JIT compiler (just import it and put @jit annotation on functions you want compiled) and for dealing with genuinely big data there is
+- [[http://numba.pydata.org][Numba]] - a very easy to use JIT compiler (just import it and put @jit annotation on functions you want compiled)
 - [[http://spark.apache.org/docs/0.9.0/python-programming-guide.html][PySpark]] - dealing with big data
 - [[http://docs.ibis-project.org][Ibis]] - dealing with big data
 
