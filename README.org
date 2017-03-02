@@ -6,7 +6,7 @@
 - IPython notebook is used to analyse data and for data visualisation.
 - IPython is the component in the toolset that ties everything together; it provides a robust and productive environment for interactive and exploratory computing.
 
-- is a high-level language, as opposed to using a client-server model.
+- ipython noteboook uses a client-server model. This makes it possible to interact with ipython from several different environments. For example, emacs or a web browser.
 
 For more info see: https://ipython.org
 
