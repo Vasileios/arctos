@@ -42,8 +42,7 @@ press yes for anaconda3 to add the =PATH= to your /.bash_profile/
 
 The next step is to:
 
-- install ipython on emacs. One of the packages[fn::You can also check /[[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-python.html][ob-python]]/ package for /source code block/ ipython in *org-mode*
-] is called /[[https://github.com/tkf/emacs-ipython-notebook][ein]]/ and you can install it through  *melpa*.
+- install ipython on emacs. One of the packages[fn::You can also check /[[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-python.html][ob-python]]/ package for /source code block/ ipython in *org-mode*] is called /[[https://github.com/tkf/emacs-ipython-notebook][ein]]/ and you can install it through  *melpa*.
 
 copy *ein.el* and *ein.py* to your emacs upload directory
 
