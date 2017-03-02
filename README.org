@@ -53,13 +53,13 @@ copy *ein.el* and *ein.py* to your emacs upload directory
 #+END_SRC
 
 Start IPython notebook server.
-go to terminal and write: =jupyter notebook= then copy the /token/ and paste it as the password to login to the server.
+Go to terminal and write: =jupyter notebook= then copy the /token/ and paste it as the password to login to the server.
 
-On emacs hit =M-x ein:notebooklist-login= and press /return/ to login to the =localhost:8888=, then paste the token to the password.
+On emacs hit =M-x ein:notebooklist-login= and press /return/ to use the =localhost:8888=, server and use the token (password) to login.
 
 i.e =password: 8b4cae6477dbcfc426a2d9030c8bfdfc7d7503cba9180ab8=
 
-*Term example*:
+*Term output example*:
 
 #+Begin_SRC sh
 [I 01:49:54.596 NotebookApp] Serving
