@@ -27,6 +27,13 @@ IPython Notebooks,and it commonly used for improving the reproducibility and acc
 - [[http://numba.pydata.org][Numba]] - a very easy to use JIT compiler (just import it and put @jit annotation on functions you want compiled)
 - [[http://spark.apache.org/docs/0.9.0/python-programming-guide.html][PySpark]] - dealing with big data
 - [[http://docs.ibis-project.org][Ibis]] - dealing with big data
+- [[https://pypi.python.org/pypi/geopy/1.11.0][Geopy]] - Python Geocoding Toolbox
+- [[https://nzjrs.github.io/osm-gps-map/][Osm-Gps-Map]] - A Gtk+ widget (and Python bindings) that when given GPS co-ordinates, draws a GPS track, and points of interest on a moving map display.
+- [[https://github.com/googlemaps/google-maps-services-python][google-maps-services-python]] - Python client library for Google Maps API Web Services
+- [[https://pypi.python.org/pypi/urbansim][Urbansim]] - (http://urbansim.org/) is a model system for analyzing urban development.
+- [[https://pypi.python.org/pypi/webuildcity][webuildcity]] - We-build.city is a Django module for a collaboration platform about participation in urban planning.
+
+check more here: https://pypi.python.org/pypi?%3Aaction=search&term=planning
 
 * Install ipython on emacs:
 
