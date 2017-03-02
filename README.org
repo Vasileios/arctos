@@ -32,7 +32,7 @@ First install anaconda:
 https://www.continuum.io/downloads
 check your python version in terminal =python --version= i.e /3.5/, and download anaconda3.
 
-After downloaded anaconda open terminal and type:
+After downloaded anaconda open terminal and =cd= to anacoda3 directory and type:
 
 #+BEGIN_SRC sh
 bash Anaconda3-4.3.0-MacOSX-x86_64.sh
@@ -42,9 +42,10 @@ press yes for anaconda3 to add the =PATH= to your /.bash_profile/
 
 The next step is to:
 
-- install ipython on emacs. One of the packages is called /ein/ nad you can install it through  melpa.
+- install ipython on emacs. One of the packages[fn::You can also check /[[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-python.html][ob-python]]/ package for /source code block/ ipython in *org-mode*
+] is called /[[https://github.com/tkf/emacs-ipython-notebook][ein]]/ and you can install it through  *melpa*.
 
-copy =ein.el= and =ein.py= to your emacs upload directory
+copy *ein.el* and *ein.py* to your emacs upload directory
 
 - open =.emacs.d= and write
 
@@ -82,8 +83,7 @@ If you successfully logged in to the server;
 
 Hit =M-x ein:notebooklist-open= to open the notebook list. This will open a notebook list buffer.
 
-In the notebook list buffer, you can open notebooks by hitting [Open]
-buttons. See notebook section for what you can do in the notebook buffer.
+In the notebook list buffer, you can open notebooks by hitting [Open], create new notebook [New notebook], or navigate [Dir].
 
 Start testing ipython with these examples:
  /[[https://github.com/particle-physics-playground/playground][particle-physics-playground-playground-52de62d]]/
